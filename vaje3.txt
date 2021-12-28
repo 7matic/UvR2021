@@ -1,0 +1,159 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.1  0.2  33824  8204 ?        Ss   17:06   0:04 /sbin/init splash
+root         2  0.0  0.0      0     0 ?        S    17:06   0:00 [kthreadd]
+root         3  0.0  0.0      0     0 ?        I<   17:06   0:00 [rcu_gp]
+root         4  0.0  0.0      0     0 ?        I<   17:06   0:00 [rcu_par_gp]
+root         8  0.0  0.0      0     0 ?        I<   17:06   0:00 [mm_percpu_wq]
+root         9  0.0  0.0      0     0 ?        S    17:06   0:00 [rcu_tasks_rude_]
+root        10  0.0  0.0      0     0 ?        S    17:06   0:00 [rcu_tasks_trace]
+root        11  0.0  0.0      0     0 ?        S    17:06   0:00 [ksoftirqd/0]
+root        12  0.0  0.0      0     0 ?        I    17:06   0:00 [rcu_sched]
+root        13  0.0  0.0      0     0 ?        S    17:06   0:00 [migration/0]
+root        14  0.0  0.0      0     0 ?        S    17:06   0:00 [cpuhp/0]
+root        15  0.0  0.0      0     0 ?        S    17:06   0:00 [cpuhp/1]
+root        16  0.0  0.0      0     0 ?        S    17:06   0:00 [migration/1]
+root        17  0.0  0.0      0     0 ?        S    17:06   0:00 [ksoftirqd/1]
+root        20  0.0  0.0      0     0 ?        S    17:06   0:00 [cpuhp/2]
+root        21  0.0  0.0      0     0 ?        S    17:06   0:00 [migration/2]
+root        22  0.0  0.0      0     0 ?        S    17:06   0:00 [ksoftirqd/2]
+root        25  0.0  0.0      0     0 ?        S    17:06   0:00 [cpuhp/3]
+root        26  0.0  0.0      0     0 ?        S    17:06   0:00 [migration/3]
+root        27  0.0  0.0      0     0 ?        S    17:06   0:00 [ksoftirqd/3]
+root        29  0.0  0.0      0     0 ?        I<   17:06   0:00 [kworker/3:0H-kblockd]
+root        30  0.0  0.0      0     0 ?        S    17:06   0:00 [kdevtmpfs]
+root        31  0.0  0.0      0     0 ?        I<   17:06   0:00 [netns]
+root        32  0.0  0.0      0     0 ?        I    17:06   0:00 [kworker/0:1-mm_percpu_wq]
+root        34  0.0  0.0      0     0 ?        I    17:06   0:00 [kworker/2:1-events]
+root        35  0.0  0.0      0     0 ?        S    17:06   0:00 [kauditd]
+root        36  0.0  0.0      0     0 ?        S    17:06   0:00 [khungtaskd]
+root        37  0.0  0.0      0     0 ?        S    17:06   0:00 [oom_reaper]
+root        38  0.0  0.0      0     0 ?        I<   17:06   0:00 [writeback]
+root        39  0.0  0.0      0     0 ?        S    17:06   0:00 [kcompactd0]
+root        57  0.0  0.0      0     0 ?        I<   17:06   0:00 [kblockd]
+root        58  0.0  0.0      0     0 ?        I<   17:06   0:00 [blkcg_punt_bio]
+root        59  0.0  0.0      0     0 ?        S    17:06   0:00 [watchdogd]
+root        61  0.0  0.0      0     0 ?        I<   17:06   0:00 [kworker/1:1H-kblockd]
+root        62  0.0  0.0      0     0 ?        I<   17:06   0:00 [rpciod]
+root        63  0.0  0.0      0     0 ?        I<   17:06   0:00 [kworker/u9:0-hci0]
+root        64  0.0  0.0      0     0 ?        I<   17:06   0:00 [xprtiod]
+root        65  0.0  0.0      0     0 ?        S    17:06   0:00 [kswapd0]
+root        66  0.0  0.0      0     0 ?        I<   17:06   0:00 [nfsiod]
+root        67  0.0  0.0      0     0 ?        I<   17:06   0:00 [kthrotld]
+root        68  0.0  0.0      0     0 ?        I<   17:06   0:00 [iscsi_eh]
+root        69  0.0  0.0      0     0 ?        I<   17:06   0:00 [iscsi_destroy]
+root        72  0.0  0.0      0     0 ?        I<   17:06   0:00 [DWC Notificatio]
+root        73  0.0  0.0      0     0 ?        I<   17:06   0:00 [uas]
+root        75  0.0  0.0      0     0 ?        S<   17:06   0:00 [vchiq-slot/0]
+root        76  0.0  0.0      0     0 ?        S<   17:06   0:00 [vchiq-recy/0]
+root        77  0.0  0.0      0     0 ?        S<   17:06   0:00 [vchiq-sync/0]
+root        78  0.0  0.0      0     0 ?        I<   17:06   0:00 [zswap-shrink]
+root        79  0.0  0.0      0     0 ?        I<   17:06   0:00 [sdhci]
+root        80  0.0  0.0      0     0 ?        S    17:06   0:00 [irq/47-mmc0]
+root        82  0.0  0.0      0     0 ?        I<   17:06   0:00 [mmc_complete]
+root        83  0.0  0.0      0     0 ?        I<   17:06   0:00 [kworker/0:1H-mmc_complete]
+root        84  0.0  0.0      0     0 ?        I<   17:06   0:00 [kworker/1:2H]
+root        85  0.0  0.0      0     0 ?        S    17:06   0:00 [jbd2/mmcblk0p2-]
+root        86  0.0  0.0      0     0 ?        I<   17:06   0:00 [ext4-rsv-conver]
+root        87  0.0  0.0      0     0 ?        I<   17:06   0:00 [kworker/2:1H-kblockd]
+root        89  0.0  0.0      0     0 ?        I<   17:06   0:00 [ipv6_addrconf]
+root       105  0.0  0.0      0     0 ?        I<   17:06   0:00 [kworker/3:2H-kblockd]
+root       117  0.0  0.2  37804  8164 ?        Ss   17:06   0:00 /lib/systemd/systemd-journald
+root       149  0.0  0.1  18472  4028 ?        Ss   17:06   0:00 /lib/systemd/systemd-udevd
+root       177  0.0  0.0      0     0 ?        S    17:06   0:00 [vchiq-keep/0]
+root       178  0.0  0.0      0     0 ?        S<   17:06   0:00 [SMIO]
+root       191  0.0  0.0      0     0 ?        I<   17:06   0:00 [mmal-vchiq]
+root       192  0.0  0.0      0     0 ?        I<   17:06   0:00 [mmal-vchiq]
+root       193  0.0  0.0      0     0 ?        I<   17:06   0:00 [mmal-vchiq]
+root       194  0.0  0.0      0     0 ?        I<   17:06   0:00 [mmal-vchiq]
+root       214  0.0  0.0      0     0 ?        S    17:06   0:00 [v3d_bin]
+root       215  0.0  0.0      0     0 ?        S    17:06   0:00 [v3d_render]
+root       219  0.0  0.0      0     0 ?        S    17:06   0:00 [v3d_tfu]
+root       220  0.0  0.0      0     0 ?        S    17:06   0:00 [v3d_csd]
+root       221  0.0  0.0      0     0 ?        S    17:06   0:00 [v3d_cache_clean]
+root       230  0.0  0.0      0     0 ?        S    17:06   0:00 [card1-crtc0]
+root       241  0.0  0.0      0     0 ?        I<   17:06   0:00 [cfg80211]
+root       252  0.0  0.0      0     0 ?        I<   17:06   0:00 [brcmf_wq/mmc1:0]
+root       254  0.0  0.0      0     0 ?        S    17:06   0:00 [brcmf_wdog/mmc1]
+systemd+   321  0.0  0.0  22416  2952 ?        Ssl  17:06   0:00 /lib/systemd/systemd-timesyncd
+root       361  0.0  0.0   7976  2188 ?        Ss   17:06   0:00 /usr/sbin/cron -f
+message+   362  0.0  0.0   6792  3744 ?        Ss   17:06   0:00 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root       365  0.0  0.0  25512  2772 ?        Ssl  17:06   0:00 /usr/sbin/rsyslogd -n -iNONE
+avahi      368  0.0  0.0   5904  2624 ?        Ss   17:06   0:00 avahi-daemon: running [raspberrypi.local]
+root       379  0.0  0.1  13044  5772 ?        Ss   17:06   0:00 /lib/systemd/systemd-logind
+root       381  0.0  0.2  65220 10424 ?        Ssl  17:06   0:00 /usr/lib/udisks2/udisksd
+root       382  0.0  0.0  10744  3808 ?        Ss   17:06   0:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+nobody     383  0.0  0.0   4320  2000 ?        Ss   17:06   0:00 /usr/sbin/thd --triggers /etc/triggerhappy/triggers.d/ --socket /run/thd.socket --user nobody --deviceglob /dev/input/event*
+root       386  0.0  0.1  11768  4540 ?        SNs  17:06   0:00 /usr/sbin/alsactl -E HOME=/run/alsa -s -n 19 -c rdaemon
+root       388  0.0  0.0  27656    80 ?        SLsl 17:06   0:00 /usr/sbin/rngd -r /dev/hwrng
+avahi      408  0.0  0.0   5772   252 ?        S    17:06   0:00 avahi-daemon: chroot helper
+root       445  0.0  0.0   2968  1820 ?        Ss   17:06   0:00 /sbin/dhcpcd -q -b
+root       468  0.0  0.4 195360 16196 ?        Ss   17:06   0:00 php-fpm: master process (/etc/php/7.3/fpm/php-fpm.conf)
+root       481  0.0  0.0   5616  3500 ?        Ss   17:06   0:00 /usr/sbin/vsftpd /etc/vsftpd.conf
+root       497  0.0  0.1  40104  7264 ?        Ssl  17:06   0:00 /usr/sbin/lightdm
+root       519  0.0  0.2  41364  8120 ?        Ssl  17:06   0:00 /usr/lib/policykit-1/polkitd --no-debug
+root       531  0.0  0.0  11004  2016 ?        Ss   17:06   0:00 wpa_supplicant -B -c/etc/wpa_supplicant/wpa_supplicant.conf -iwlan0 -Dnl80211,wext
+root       538  0.0  0.0   7880   360 ?        S    17:06   0:00 /usr/sbin/xrdp-sesman
+root       548  0.0  0.1  10728  5340 ?        Ss   17:06   0:00 /usr/sbin/sshd -D
+mysql      591  0.1  1.6 731252 65744 ?        Ssl  17:06   0:05 /usr/sbin/mysqld
+xrdp       592  0.0  0.0   7816  1672 ?        S    17:06   0:00 /usr/sbin/xrdp
+root       606  0.0  1.5 136412 60924 tty7     Ssl+ 17:06   0:01 /usr/lib/xorg/Xorg :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+root       607  0.0  0.0   5620  2860 tty1     Ss   17:06   0:00 /bin/login -f
+root       614  0.0  0.4 194484 18244 ?        Ss   17:06   0:00 /usr/sbin/apache2 -k start
+www-data   625  0.0  0.1 195360  3920 ?        S    17:06   0:00 php-fpm: pool www
+www-data   626  0.0  0.1 195360  3920 ?        S    17:06   0:00 php-fpm: pool www
+root       641  0.0  0.0   2136   116 ?        S    17:06   0:00 /usr/bin/hciattach /dev/serial1 bcm43xx 3000000 flow -
+root       642  0.0  0.0      0     0 ?        I<   17:06   0:00 [kworker/u9:2-hci0]
+root       644  0.0  0.0   9536  3376 ?        Ss   17:06   0:00 /usr/lib/bluetooth/bluetoothd
+pi         702  0.0  0.1  14728  7472 ?        Ss   17:06   0:00 /lib/systemd/systemd --user
+pi         704  0.0  0.0  16860  1748 ?        S    17:06   0:00 (sd-pam)
+pi         717  0.0  0.0   8492  3764 tty1     S+   17:06   0:00 -bash
+root       735  0.0  0.1  32400  7452 ?        Sl   17:06   0:00 lightdm --session-child 14 17
+pi         739  0.0  0.3  56328 12596 ?        Ssl  17:06   0:00 /usr/bin/lxsession -s LXDE-pi -e LXDE
+pi         747  0.0  0.0   6544  3480 ?        Ss   17:06   0:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+pi         773  0.0  0.0   4524   288 ?        Ss   17:06   0:00 /usr/bin/ssh-agent x-session-manager
+pi         784  0.0  0.1  43412  6192 ?        Ssl  17:06   0:00 /usr/lib/gvfs/gvfsd
+pi         789  0.0  0.1  56756  6496 ?        Sl   17:06   0:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+pi         794  0.0  0.3  62488 14752 ?        S    17:06   0:00 openbox --config-file /home/pi/.config/openbox/lxde-pi-rc.xml
+pi         797  0.0  0.2  47136 10904 ?        Sl   17:06   0:00 lxpolkit
+pi         807  0.0  0.7 431456 29872 ?        Sl   17:06   0:02 lxpanel --profile LXDE-pi
+pi         808  0.0  0.5  83936 22300 ?        Sl   17:06   0:00 pcmanfm --desktop --profile LXDE-pi
+pi         816  0.0  0.0   4524   288 ?        Ss   17:06   0:00 /usr/bin/ssh-agent -s
+pi         818  0.0  0.0   4872  1024 ?        S    17:06   0:00 xcompmgr -aR
+pi         828  0.0  0.7  51760 29272 ?        S    17:06   0:00 /usr/bin/python3 /usr/share/system-config-printer/applet.py
+pi         832  0.0  0.2 367728  8816 ?        S<sl 17:06   0:00 /usr/bin/pulseaudio --daemonize=no
+rtkit      843  0.0  0.0  23188  2184 ?        SNsl 17:06   0:00 /usr/lib/rtkit/rtkit-daemon
+pi         857  0.0  0.2  79460 10408 ?        Ssl  17:06   0:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+root       860  0.0  0.0      0     0 ?        S<   17:06   0:00 [krfcommd]
+pi         862  0.0  0.1  28696  6608 ?        Sl   17:06   0:00 /usr/lib/menu-cache/menu-cached /run/user/1000/menu-cached-:0
+pi         869  0.0  0.1  40104  4288 ?        Ssl  17:06   0:00 /usr/lib/gvfs/gvfs-goa-volume-monitor
+pi         873  0.0  0.1  56028  6932 ?        Ssl  17:06   0:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+pi         878  0.0  0.1  40128  4556 ?        Ssl  17:06   0:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+pi         882  0.0  0.1  41696  4928 ?        Ssl  17:06   0:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+pi         889  0.0  0.2  55216  8176 ?        Sl   17:06   0:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.4 /org/gtk/gvfs/exec_spaw/0
+www-data  1129  0.0  0.1 194508  4792 ?        S    17:09   0:00 /usr/sbin/apache2 -k start
+www-data  1130  0.0  0.1 194508  4792 ?        S    17:09   0:00 /usr/sbin/apache2 -k start
+www-data  1131  0.0  0.1 194508  4792 ?        S    17:09   0:00 /usr/sbin/apache2 -k start
+www-data  1132  0.0  0.1 194508  4792 ?        S    17:09   0:00 /usr/sbin/apache2 -k start
+www-data  1133  0.0  0.1 194508  4792 ?        S    17:09   0:00 /usr/sbin/apache2 -k start
+root      1143  0.0  0.1  27640  6012 ?        Ss   17:09   0:00 /usr/sbin/cupsd -l
+root      1144  0.0  0.2  40496  8876 ?        Ssl  17:09   0:00 /usr/sbin/cups-browsed
+root      1252  0.0  0.1  12380  6416 ?        Ss   17:10   0:00 sshd: pi [priv]
+pi        1258  0.0  0.0  12380  3364 ?        S    17:10   0:01 sshd: pi@pts/0
+pi        1259  0.0  0.1   9112  4568 pts/0    Ss   17:10   0:02 -bash
+root      1390  0.0  0.0      0     0 ?        I    17:25   0:00 [kworker/u8:1-events_unbound]
+root      1410  0.0  0.0      0     0 ?        I    17:26   0:00 [kworker/1:1-events_power_efficient]
+root      1629  0.0  0.0      0     0 ?        I    17:42   0:00 [kworker/u8:0-events_unbound]
+root      1639  0.0  0.0      0     0 ?        I<   17:43   0:00 [kworker/2:0H]
+root      1646  0.0  0.0      0     0 ?        I    17:46   0:00 [kworker/3:2-events]
+root      1700  0.0  0.0      0     0 ?        I    17:50   0:00 [kworker/2:0-events]
+root      1757  0.0  0.0      0     0 ?        I    17:55   0:00 [kworker/0:2-mm_percpu_wq]
+root      1770  0.0  0.0      0     0 ?        I<   17:55   0:00 [kworker/0:0H]
+root      1834  0.0  0.0      0     0 ?        I    18:01   0:00 [kworker/1:2-events]
+root      1835  0.0  0.0      0     0 ?        I    18:02   0:00 [kworker/3:0-mm_percpu_wq]
+root      1836  0.0  0.0      0     0 ?        I    18:03   0:00 [kworker/0:0-events]
+root      1844  0.0  0.0      0     0 ?        I    18:07   0:00 [kworker/1:0-mm_percpu_wq]
+pi        1848  0.0  0.0   8784  2848 pts/0    T    18:07   0:00 vi
+pi        1849  0.0  0.0   8784  2916 pts/0    T    18:07   0:00 vi
+pi        1850  0.1  0.0   8784  3020 pts/0    T    18:07   0:00 vi
+root      1851  0.0  0.0      0     0 ?        I    18:07   0:00 [kworker/3:1-events]
+pi        1852  0.0  0.0   9788  2616 pts/0    R+   18:07   0:00 ps aux
